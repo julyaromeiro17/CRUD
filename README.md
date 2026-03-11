@@ -119,4 +119,8 @@ O objetivo deste projeto é praticar:
 
 ## Autor
 
+Julya Romeiro Viana
+Sthephany Souza
+Heitor Baltazar
+
 Projeto desenvolvido para atividade acadêmica.
